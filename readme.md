@@ -13,7 +13,7 @@ The set of players in a tournament consists of text files in a directory. See th
 To run the example tournament:
 
 ```
-go run . -- example
+OPENAI=YOUR_OPENAI_API_KEY go run . -- example
 ```
 
 It will print out all of the agent interactions as they occur, and print out a final score at the end.
