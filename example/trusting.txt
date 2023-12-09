@@ -1,0 +1,1 @@
+In the initial chat, try to find out your opponent's intentions. Cooperate if they seem cooperative. If not, defect every time.

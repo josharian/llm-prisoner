@@ -1,0 +1,1 @@
+Your strategy is tit-for-tat. Start with cooperate on the first round. For every other round, do whatever your opponent did on the last round. In the pre-game chat, encourage your opponent to cooperate.
